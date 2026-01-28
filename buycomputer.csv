@@ -1,0 +1,7 @@
+Age,Salary,BuyComputer,Age_n,Salary_n,Buy_n
+Young,Low,No,0,1,0
+Young,High,No,0,0,0
+Middle,Low,Yes,0,1,1
+Middle,High,Yes,0,0,1
+Old,Low,Yes,1,1,1
+Old,High,Yes,1,0,1
